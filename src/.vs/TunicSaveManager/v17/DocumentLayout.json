@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Tunic\\TunicSaveManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C84B8DB-957F-4E5C-8769-36E1A721AB9B}|TunicSaveManager.csproj|z:\\tunic\\tunicsavemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C84B8DB-957F-4E5C-8769-36E1A721AB9B}|TunicSaveManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TunicSaveManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C84B8DB-957F-4E5C-8769-36E1A721AB9B}|TunicSaveManager.csproj|Z:\\Tunic\\TunicSaveManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C84B8DB-957F-4E5C-8769-36E1A721AB9B}|TunicSaveManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C84B8DB-957F-4E5C-8769-36E1A721AB9B}|TunicSaveManager.csproj|z:\\tunic\\tunicsavemanager\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "Z:\\Tunic\\TunicSaveManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "Z:\\Tunic\\TunicSaveManager\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAMoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:34:29.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TunicSaveManager",
+              "DocumentMoniker": "Z:\\Tunic\\TunicSaveManager\\TunicSaveManager.csproj",
+              "RelativeDocumentMoniker": "TunicSaveManager.csproj",
+              "ToolTip": "Z:\\Tunic\\TunicSaveManager\\TunicSaveManager.csproj",
+              "RelativeToolTip": "TunicSaveManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-28T16:45:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "Z:\\Tunic\\TunicSaveManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "Z:\\Tunic\\TunicSaveManager\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:37:57.603Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
